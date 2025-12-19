@@ -1,0 +1,22 @@
+
+{
+  "name": "KASUR Institute of Allied Health Sciences",
+  "short_name": "KIAHS Portal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#800000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/512x512/800000/FFD700.png?text=KIAHS+Edu",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/800000/FFD700.png?text=KIAHS+Edu",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
